@@ -1,0 +1,80 @@
+===== Interview Q ====
+
+Invade Code Limited -- WTC Tower 4 level 2
+------------------------------------------------------
+
+Introduction
+
+What is software Testing 
+
+What is automation Testing 
+
+What is Unit Testing
+
+What is multiple Inheritance & why not support in java.
+
+What is Collection.
+
+Scenarion based write 5 Test cases.
+
+
+==== ----- ======
+
+What is software testing.
+
+What is testing levels. 
+
+What is SDLC & Phases.
+
+What is Models in SDLC.
+
+What is Agile model.
+
+What is Unit Testing & who is responsible that.
+
+What is Verification & Validation.
+
+What is meant by bug leakage.
+
+What is diff between Priority & Severity & Eg of High severity & Low Priority.
+
+Write Test cases on LikedIn Sing-Up page.
+
+What is Selenium & Advantages , why use.
+
+What is disadvantages in selenium.
+
+What are component in selenium.
+
+What is selenium webDriver.
+
+What is Implicite & Explicite Wait.
+
+What is Locators & Types of Locators in java.
+
+=================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
