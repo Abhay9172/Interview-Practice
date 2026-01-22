@@ -1,3 +1,7 @@
+<h1> Be Your Own Light </h1>
+
+<hr>
+
 <Strong>Manual Testing : </Strong> https://excalidraw.com/#json=3SRr6Ua9cXIC_Hol8WR8I,6nHPfPZLD1HDCNvTeMgkdg
 
 <Strong>Selenium Notes : </Strong>  https://excalidraw.com/#json=K68JN3bMAkS0Ht7N2g4mo,FMCu7yiEuh27_YJEgfkj6g
@@ -6,7 +10,7 @@
 
 <Strong>Java Notes : </Strong>  https://excalidraw.com/#json=kL9G-F05630Uv6eNuoE4P,p1_7Bh_q_-GmVxhlQo2jSg
 
-
+<Strong>SQL Notes : </Strong> https://excalidraw.com/#json=k1hsX77bgoy3m9431-JXd,1FV5_v8bfRUpcjbXn_qx6Q
 
 # Interview-Practice
 <h3>Usefull video link</h3>
