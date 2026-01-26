@@ -12,6 +12,8 @@
 
 <Strong>SQL Notes : </Strong> https://excalidraw.com/#json=k1hsX77bgoy3m9431-JXd,1FV5_v8bfRUpcjbXn_qx6Q
 
+<Strong>New Manual Testing</Strong> : https://excalidraw.com/#json=Hp4m9DWxYnOAQ6-mG4BXJ,rxOAVfsaeFSKjEX1Op6-FA
+
 # Interview-Practice
 <h3>Usefull video link</h3>
 ✅ 100 Must-Know Selenium Java Automation Interview Questions (2025) 🔥| Ajay Automation
