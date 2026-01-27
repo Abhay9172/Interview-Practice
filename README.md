@@ -12,7 +12,7 @@
 
 <Strong>SQL Notes : </Strong> https://excalidraw.com/#json=k1hsX77bgoy3m9431-JXd,1FV5_v8bfRUpcjbXn_qx6Q
 
-<Strong>New Manual Testing</Strong> : https://excalidraw.com/#json=Hp4m9DWxYnOAQ6-mG4BXJ,rxOAVfsaeFSKjEX1Op6-FA
+<Strong>New Manual Testing</Strong> : https://excalidraw.com/#json=QL31Ik9SfeW9WZGaCxGyo,0VVV6I95BTYBVkcunc9qrg
 
 # Interview-Practice
 <h3>Usefull video link</h3>
